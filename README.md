@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=MaGAVBRwvbg&list=PLiAoBT74VLnmRIPZGg4F36fH3BjQ5f
 
 
 https://ethernaut.openzeppelin.com/ - tasks
+
+
+rugdoc.io = to scam or not scam
