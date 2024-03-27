@@ -11,7 +11,7 @@ contract Fallback {
     contributions[msg.sender] = 1000 * (1 ether);
   }
 
-  modifier onlyOwner {
+  modifier onlyOwner { 
         require(
             msg.sender == owner,
             "caller is not the owner"
